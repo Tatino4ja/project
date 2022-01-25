@@ -1,0 +1,64 @@
+.header{
+    display: flex;
+    max-width: 1440px;
+    height: 83px;
+    align-items: center;
+    margin-right: 32px;
+    justify-content: space-between;
+}
+.nav_menu{
+    display: flex;
+    grid-column-gap: 40px;
+
+}
+.fs7{
+    font-size: 7px;
+    margin-left: 8px;
+    padding-top: 2px;
+}
+ .flex{
+     display: flex;
+ }
+ .ai{
+     align-items: center;
+
+ }
+ .font1{
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 24px;
+
+ }
+ .gup48{
+     grid-column-gap: 48px;
+ }
+ .mr170{
+     margin-right: 170px;
+     margin-left: 36px;
+ }
+ .mr48{
+   margin-right: 48px;
+
+ }
+ .db{
+     color: #0B2330;
+ }
+ .fe{
+     justify-content: flex-end;
+     grid-column-gap: 24px;
+ }
+ .h83{
+     height: 83px;
+ }
+
+ .but{
+     width: 163px;
+     height: 54px;
+     background: #0B2330;
+     border: 1px solid #0B2330;
+     box-sizing: border-box;
+     border-radius: 4px;
+     color: white;
+     font-size: 16px;
+ }
