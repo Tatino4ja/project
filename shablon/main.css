@@ -1,3 +1,10 @@
+*{
+    font-family: Roboto;
+}
+.body{
+    margin: 0;
+}
+
 .header{
     display: flex;
     max-width: 1440px;
@@ -24,8 +31,6 @@
 
  }
  .font1{
-     font-style: normal;
-     font-weight: normal;
      font-size: 16px;
      line-height: 24px;
 
@@ -51,7 +56,6 @@
  .h83{
      height: 83px;
  }
-
  .but{
      width: 163px;
      height: 54px;
@@ -62,3 +66,34 @@
      color: white;
      font-size: 16px;
  }
+
+ /*Block#1*/
+.white{
+    width: 730px;
+    justify-content: center;
+    margin-top: 154px;
+}
+h1{
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 0.6px;
+    margin: 0;
+    font-weight: normal;
+}
+.par1{
+
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+    margin: 32px 0 38px 0;
+}
+.yellow{
+    width: 710px;
+    justify-content: flex-end;
+    background: silver;
+}
+.w436{
+    width: 435px;
+}
+
+
