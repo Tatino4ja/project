@@ -90,10 +90,41 @@ h1{
 .yellow{
     width: 710px;
     justify-content: flex-end;
-    background: silver;
+    position: relative;
 }
 .w436{
     width: 435px;
+}
+.absolut{
+    position: absolute;
+    top: 172px;
+    right: 102px;
+}
+.button2{
+    align-items: flex-start;
+    grid-column-gap: 16px;
+}
+.but1{
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+     color: #0B2330;
+}
+.but2{
+    width: 156px;
+    height: 54px;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+
 }
 
 
