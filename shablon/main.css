@@ -81,6 +81,7 @@
 }
 
 /*Block#1*/
+
 .white {
     width: 730px;
     justify-content: center;
@@ -150,7 +151,7 @@ h1 {
 
 /*Block#2*/
 
-h2 {
+.h21 {
     font-size: 42px;
     line-height: 48px;
     font-weight: normal;
@@ -184,3 +185,32 @@ h2 {
 .mtb {
     margin: 16px 173px;
 }
+/*Block#3*/
+
+.block3{
+    max-width: 1376px;
+    display: flex;
+    margin: 192px 32px 0 32px;
+    background: #51CEBC;
+    border-radius: 10px;
+}
+.imgman{
+    margin: 56px 0;
+}
+.h31{
+    width: 557px;
+    height: 120px;
+    margin: 114px 121px 0 0;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+}
+.par2{
+    max-width: 533px;
+    height: 64px;
+    font-size: 22px;
+    line-height: 32px;
+    margin: 35px 145px 0 0;
+}
+
