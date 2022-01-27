@@ -78,6 +78,7 @@
     border-radius: 4px;
     color: white;
     font-size: 16px;
+    transition: 1s;
 }
 
 /*Block#1*/
@@ -235,3 +236,32 @@ h1 {
 .mb160{
     margin-bottom: 160px;
 }
+
+/*efects*/
+
+:hover> .hover{
+    width: 180px;
+    height: 65px;
+    background: #f43d3d;
+    border: 1px solid #f43d3d;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: #000000;
+    font-size: 18px;
+    transition: 1s;
+    box-shadow: 0 0 15px 5px black
+
+}
+.ima{
+    transition: 3s;
+    cursor: pointer;
+}
+
+:hover> .hov{
+
+    border-radius: 8px;
+    transition: 1s;
+    box-shadow: 0 0 15px 5px black
+
+}
+
