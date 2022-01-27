@@ -198,13 +198,16 @@ h1 {
     margin: 56px 0;
 }
 .h31{
-    width: 557px;
-    height: 120px;
-    margin: 114px 121px 0 0;
+
     font-weight: normal;
     font-size: 34px;
     line-height: 40px;
     letter-spacing: 0.34px;
+}
+.h3block{
+    max-width: 557px;
+    height: 120px;
+    margin: 114px 121px 0 0;
 }
 .par2{
     max-width: 533px;
@@ -214,3 +217,21 @@ h1 {
     margin: 35px 145px 0 0;
 }
 
+/*Block#4*/
+.block4{
+    max-width: 1440px;
+    flex-direction: column;
+    align-items: center;
+}
+.h4block{
+    max-width: 711px;
+    height: 80px;
+    margin-top: 191px;
+}
+.mtbi{
+    margin-top: 157px;
+    margin-bottom: 113px;
+}
+.mb160{
+    margin-bottom: 160px;
+}
