@@ -136,6 +136,7 @@ h1 {
     font-size: 16px;
     line-height: 24px;
     color: #0B2330;
+    transition: 1s;
 }
 
 .but2 {
@@ -249,7 +250,8 @@ h1 {
     color: #000000;
     font-size: 18px;
     transition: 1s;
-    box-shadow: 0 0 15px 5px black
+    box-shadow: 0 0 15px 5px black;
+
 
 }
 .ima{
@@ -261,7 +263,12 @@ h1 {
 
     border-radius: 8px;
     transition: 1s;
-    box-shadow: 0 0 15px 5px black
+    box-shadow: 0 0 15px 5px black;
 
 }
+.pointer{
+    cursor: pointer;
+}
+
+
 
