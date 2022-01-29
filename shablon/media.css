@@ -1,0 +1,37 @@
+@media screen and (min-width: 0) and (max-width: 768px){
+.mobil{
+    display: none;
+}
+.menu{
+    width: 160px;
+    height: auto;
+    background: #375361;
+    display: block;
+    position: absolute;
+    top: 100px;
+    left: -160px;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+:hover> .menu{
+    left: 0;
+    transition: 0.5s;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.mob{
+    flex-direction: column;
+}
+.yellow{
+    margin-top: 15px;
+}
+
+
+
+}

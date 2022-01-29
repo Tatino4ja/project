@@ -13,6 +13,7 @@
     align-items: center;
     margin-right: 32px;
     justify-content: space-between;
+    position: relative;
 }
 
 .nav_menu {
@@ -265,6 +266,9 @@ h1 {
     transition: 1s;
     box-shadow: 0 0 15px 5px black;
 
+}
+.menu{
+    display: none;
 }
 
 
