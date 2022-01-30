@@ -31,6 +31,31 @@ a{
 .yellow{
     margin-top: 15px;
 }
+.disb{
+
+    display: block;
+}
+.just{
+    justify-content: space-evenly;
+}
+.block3{
+    flex-direction: column;
+    margin-top: 25px;
+
+}
+.h3block{
+    margin: 0;
+}
+.par2{
+    margin: 0;
+}
+.margi{
+    margin-left: 25px;
+}
+.mtbi{
+    width: 100%;
+}
+.blo
 
 
 
